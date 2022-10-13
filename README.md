@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="leo's photo" src="https://ibb.co/n3cqTH1" />
+<img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="leo's photo" src="https://i.ibb.co/yhymDwk/Nuevo-proyecto.png" />
 <p>
 I'm a Flutter developer 🚀 from Colombia.
 <br/>
