@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="leo's photo" src="https://drive.google.com/file/d/1Uq__GHE5o_rwm9TBK-FhZxV55I_JKylp/view?usp=sharing" />
+<img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="leo's photo" src="https://ibb.co/n3cqTH1" />
 <p>
 I'm a Flutter developer 🚀 from Colombia.
 <br/>
@@ -35,8 +35,8 @@ and be a part of my journey... and See if I can make it or not!
 
 ### 🛠️ Languages and Tools:
 
-![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-rouded&logo=flutter)
-![Dart](https://img.shields.io/badge/-dart-black?style=flat-rouded&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-rouded&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-rouded&logo=dart)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-rouded&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-rouded&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
