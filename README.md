@@ -25,7 +25,7 @@ I'm a Mobile Frontend Engineer 🚀 from Colombia.
   
 ### ✨ Quick Facts
 
-*   👨🏽‍💻 I’m currently working on @redcap-konex 
+*   👨🏽‍💻 I’m currently working on @TCS
 *   🎿 Hobbies other than coding : Play basketball , Playing multi-player videogames 🤖...<
 *   🧠 I'm learning Node JS, React, React Native, Kotlin and Swfit
 
