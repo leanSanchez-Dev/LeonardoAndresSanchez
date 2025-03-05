@@ -1,4 +1,4 @@
-### Hello world 👋, I'm [Leonardo](https://github.com/LeonardoAndresSanchez) 👨‍💻 <div align = 'right'>![](https://komarev.com/ghpvc/?username=leanSanchez-Dev&color=teal)</div>
+### Hello world 👋, I'm [Leonardo](https://github.com/LeonardoAndresSanchez) 👨‍💻 <div align = 'right'>![](https://komarev.com/ghpvc/?username=leanSanchez-Dev&color=orange)</div>
 
 <br/>
 
